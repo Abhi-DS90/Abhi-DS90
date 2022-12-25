@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi-DS90
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and ML
+- 🌱 I’m currently learning Python, webscrapping, ML and DL
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me anirudhbabu.47@gmail.com
 
